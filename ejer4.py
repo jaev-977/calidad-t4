@@ -1,4 +1,4 @@
-from ejercicio import addit
+from ejercicio import divide
 import unittest
 
 class TestDivide(unittest.TestCase):

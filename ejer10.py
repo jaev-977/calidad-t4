@@ -1,4 +1,4 @@
-from ejercicio import addit
+from ejercicio import odd_numbers(
 import unittest
 
 class TestOddNumbers(unittest.TestCase):

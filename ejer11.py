@@ -1,4 +1,4 @@
-from ejercicio import addit
+from ejercicio import is_even
 import unittest
 
 class TestIsEven(unittest.TestCase):

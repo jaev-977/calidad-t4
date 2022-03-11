@@ -1,4 +1,4 @@
-from ejercicio import addit
+from ejercicio import reverse
 import unittest
 
 class TestReverse(unittest.TestCase):
