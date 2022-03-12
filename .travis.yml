@@ -1,0 +1,16 @@
+language: python
+python:
+  - "3.7"
+cache: pip
+script:
+  - python -m unittest -v ejer1.py
+  - python -m unittest -v ejer2.py
+  - python -m unittest -v ejer3.py
+  - python -m unittest -v ejer4.py
+  - python -m unittest -v ejer5.py
+  - python -m unittest -v ejer6.py
+  - python -m unittest -v ejer7.py
+  - python -m unittest -v ejer8.py
+  - python -m unittest -v ejer9.py
+  - python -m unittest -v ejer10.py
+  - python -m unittest -v ejer11.py
